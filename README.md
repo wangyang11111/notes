@@ -1,2 +1,4 @@
-# notes
-读书笔记·
+[TOC]
+#Java
+#python
+#scala
